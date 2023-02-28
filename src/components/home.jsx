@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "./cards/card";
-import SimpleSlider from "./slider/slider";
+// import SimpleSlider from "./slider/slider";
 
 const Home = () => {
     return (
